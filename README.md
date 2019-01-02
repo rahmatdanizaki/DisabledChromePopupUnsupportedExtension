@@ -5,7 +5,7 @@ Disable Popup Extensions (Not Supported or Disabled by Chrome), this will be eas
 <h2>How to use</h2>
 <b>Step 1</b>
 important !!! download the latest Chrome policy template and update your Chrome Browser for this script to work properly. You can download the following link https://dl.google.com/dl/edgedl/chrome/policy/policy_templates.zip
-<br>
+<br><br>
 
 <b>Step 2</b><br>
 extract <i>"policy_templates.zip"</i> and place a folder with the <i>"Disable Chrome Popup.bat"</i> file in the source.
